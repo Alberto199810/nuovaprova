@@ -5,3 +5,5 @@ channels:
 dependencies:
   - pandas <2
   - bqplot
+  - plotly==5.9.0
+  - ipywidgets==8.0.3
